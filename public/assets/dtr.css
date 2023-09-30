@@ -1,0 +1,197 @@
+@font-face {
+    font-family: "Cambria Math";
+    panose-1: 2 4 5 3 5 4 6 3 2 4;
+    mso-font-charset: 0;
+    mso-generic-font-family: roman;
+    mso-font-pitch: variable;
+    mso-font-signature: -536869121 1107305727 33554432 0 415 0;
+}
+
+/* Style Definitions */
+p.MsoNormal,
+li.MsoNormal,
+div.MsoNormal {
+    mso-style-unhide: no;
+    mso-style-qformat: yes;
+    mso-style-parent: "";
+    margin: 0in;
+    margin-bottom: .0001pt;
+    mso-pagination: widow-orphan;
+    font-size: 10.0pt;
+    mso-bidi-font-size: 12.0pt;
+    font-family: "Arial", sans-serif;
+    mso-fareast-font-family: "Times New Roman";
+    mso-bidi-font-family: "Times New Roman";
+}
+
+h1 {
+    mso-style-unhide: no;
+    mso-style-qformat: yes;
+    mso-style-next: Normal;
+    margin: 0in;
+    margin-bottom: .0001pt;
+    text-align: right;
+    mso-pagination: widow-orphan;
+    page-break-after: avoid;
+    mso-outline-level: 1;
+    font-size: 8.0pt;
+    mso-bidi-font-size: 12.0pt;
+    font-family: "Arial", sans-serif;
+    mso-bidi-font-family: "Times New Roman";
+    mso-font-kerning: 0pt;
+    font-weight: normal;
+    font-style: italic;
+}
+
+h2 {
+    mso-style-unhide: no;
+    mso-style-qformat: yes;
+    mso-style-next: Normal;
+    margin: 0in;
+    margin-bottom: .0001pt;
+    mso-pagination: widow-orphan;
+    page-break-after: avoid;
+    mso-outline-level: 2;
+    font-size: 8.0pt;
+    mso-bidi-font-size: 12.0pt;
+    font-family: "Arial", sans-serif;
+    mso-bidi-font-family: "Times New Roman";
+    font-weight: normal;
+    font-style: italic;
+}
+
+h3 {
+    mso-style-unhide: no;
+    mso-style-qformat: yes;
+    mso-style-next: Normal;
+    margin-top: 6.0pt;
+    margin-right: 0in;
+    margin-bottom: 0in;
+    margin-left: 0in;
+    margin-bottom: .0001pt;
+    text-align: center;
+    mso-pagination: widow-orphan;
+    page-break-after: avoid;
+    mso-outline-level: 3;
+    font-size: 10.0pt;
+    mso-bidi-font-size: 12.0pt;
+    font-family: "Arial", sans-serif;
+    mso-bidi-font-family: "Times New Roman";
+}
+
+p.MsoCaption,
+li.MsoCaption,
+div.MsoCaption {
+    mso-style-unhide: no;
+    mso-style-qformat: yes;
+    mso-style-next: Normal;
+    margin: 0in;
+    margin-bottom: .0001pt;
+    text-align: center;
+    mso-pagination: widow-orphan;
+    font-size: 7.0pt;
+    mso-bidi-font-size: 12.0pt;
+    font-family: "Arial", sans-serif;
+    mso-fareast-font-family: "Times New Roman";
+    mso-bidi-font-family: "Times New Roman";
+    font-style: italic;
+}
+
+p.MsoBodyText,
+li.MsoBodyText,
+div.MsoBodyText {
+    mso-style-noshow: yes;
+    mso-style-unhide: no;
+    margin: 0in;
+    margin-bottom: .0001pt;
+    mso-pagination: widow-orphan;
+    font-size: 7.0pt;
+    mso-bidi-font-size: 12.0pt;
+    font-family: "Arial", sans-serif;
+    mso-fareast-font-family: "Times New Roman";
+    mso-bidi-font-family: "Times New Roman";
+}
+
+p.bookletbody,
+li.bookletbody,
+div.bookletbody {
+    mso-style-name: bookletbody;
+    mso-style-unhide: no;
+    margin-top: 0in;
+    margin-right: 0in;
+    margin-bottom: 0in;
+    margin-left: .25in;
+    margin-bottom: .0001pt;
+    text-align: justify;
+    line-height: 10.0pt;
+    mso-line-height-rule: exactly;
+    mso-pagination: widow-orphan;
+    tab-stops: .25in;
+    font-size: 9.0pt;
+    mso-bidi-font-size: 12.0pt;
+    font-family: "Times New Roman", serif;
+    mso-fareast-font-family: "Times New Roman";
+}
+
+span.SpellE {
+    mso-style-name: "";
+    mso-spl-e: yes;
+}
+
+@page WordSection1 {
+    size: 595.3pt 841.9pt;
+    margin: .8in .7in .8in .7in;
+    mso-header-margin: .5in;
+    mso-footer-margin: .5in;
+    mso-columns: 2 even 1.0in;
+    mso-paper-source: 0;
+}
+
+div.WordSection1 {
+    page: WordSection1;
+}
+
+table.MsoNormalTable {
+    mso-style-name: "Table Normal";
+    mso-tstyle-rowband-size: 0;
+    mso-tstyle-colband-size: 0;
+    mso-style-noshow: yes;
+    mso-style-priority: 99;
+    mso-style-parent: "";
+    mso-padding-alt: 0in 5.4pt 0in 5.4pt;
+    mso-para-margin: 0in;
+    mso-para-margin-bottom: .0001pt;
+    mso-pagination: widow-orphan;
+    font-size: 10.0pt;
+    font-family: "Times New Roman", serif;
+}
+
+.table {
+    border-collapse: collapse;
+    border: none;
+    mso-border-alt: solid windowtext .5pt;
+    mso-padding-alt: 0in 5.4pt 0in 5.4pt;
+    mso-border-insideh: .5pt solid windowtext;
+    mso-border-insidev: .5pt solid windowtext
+}
+
+.td {
+    width: 3.2in;
+    border: none;
+    border-bottom: solid windowtext 1.0pt;
+    mso-border-bottom-alt: solid windowtext .5pt;
+    padding: 0in 5.4pt 0in 5.4pt
+}
+
+body {
+    tab-interval: .5in;
+}
+
+.header {
+    font-size: 12.0pt
+}
+
+.separator {
+    font-size: 8.0pt;
+    mso-bidi-font-size: 12.0pt
+}
